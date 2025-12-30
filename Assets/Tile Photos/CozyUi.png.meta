@@ -1,0 +1,6644 @@
+fileFormatVersion: 2
+guid: 7a9ee07f6b0cd4541a9769b4b1a7d0eb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CozyUi_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 997
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4419c90b5063a4d8c0f892a27d5613
+      internalID: -1179249171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 996
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e401da5fe55b94cac5f1f61ef54657
+      internalID: 1001897176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 992
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505567831067bfd43a044031bf739753
+      internalID: -857343108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 992
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9204b3c886446c74780d37c640d63c2d
+      internalID: -1989431742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 993
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e727dd89ed4394596766a144bead17
+      internalID: -1601381015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 992
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98900acacd68ee54ebeec9335b762f49
+      internalID: 1399432090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_6
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 992
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bfe5287e8a3734e98a2907c3b77ff5
+      internalID: 663593350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 992
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affebb897bc9a7c4dbc7a08514f24f56
+      internalID: 1341107725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_8
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 993
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5676608c5dab9448106a6c65dfbcfc
+      internalID: 128186467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 992
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daddc3788590a1143a0b855ab65f5cb8
+      internalID: 1457283725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31815f055db56748b3ef0d398ba4f71
+      internalID: -1572503461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 960
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d6db30b9347de498896faf78303259
+      internalID: -1161480104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 960
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c1380ab1dc5094e83b25df841c9447
+      internalID: 1276865518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 960
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5188e61adb28146b81d0178b33ba53
+      internalID: 614803632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 960
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb64ed7e07970e34cb30c5081d3f79a9
+      internalID: 1096847822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 960
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad012d627ad11f4d82bb32e88fc00de
+      internalID: 1693340019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 960
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e55e8ef44c05d4a864b174b2540ac5
+      internalID: -1080124789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_17
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 960
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29660d9ee08c3f242b5b5005db22aacc
+      internalID: 1460391379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_18
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 977
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3025cfced8b7845a0ca8e0ef292ec2
+      internalID: -127584537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_19
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 960
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dab495a7e364e41958ff44d5a8c9cd
+      internalID: -685348811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8234ba38912532547acfbab58e7853e0
+      internalID: -31256742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 928
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a2faa580b1e1b4b95053a1aa5275a1
+      internalID: -224034342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 928
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c51e54403c811643a5f44c84de1c3a3
+      internalID: -432311745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 928
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da236b20c5c1d3643b31e1505fc459c6
+      internalID: 52460879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 928
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb16655fec218c438e750244d6cfddc
+      internalID: -1434802219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_25
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 928
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06809dadfa8c0c46a9a6d704cf323d1
+      internalID: 1042542101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_26
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 928
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b0c16f9b8c1e845b17ac61bf3fc220
+      internalID: 1717437395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_27
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 928
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3f7d441a677704a9e02be274ee4ffa
+      internalID: 562419160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_28
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 928
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1549829d6c98002469f9ad5d7ac87353
+      internalID: 1253391058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_29
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 928
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29742576367f3684d830963d248e2689
+      internalID: -1321845158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 901
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d076da9b298064ea82ff5d96757cd5
+      internalID: -1601413818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_31
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 896
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830a3cef87694504c8fc12a3978fa954
+      internalID: -1120416315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 899
+        width: 93
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd262f0dcbe69a46a14d6b3974dd965
+      internalID: -1981715217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 899
+        width: 90
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cceecd6f19ad94fac1c9d80dfa57ca
+      internalID: -1462309896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_34
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 896
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91019755ca198884fa86bd27beabec84
+      internalID: -82160423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_35
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 896
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25e1dace5e57bb44b52cc01e9c26f4c
+      internalID: -1676993267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 896
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f71a4c63c3b264185bd1a6968dd7fe
+      internalID: 1451980395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_37
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 896
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a0ecc81a0570745942b914d3f0f69a
+      internalID: 353571204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_38
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 896
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7adfc949bc89646bf60fb88b3f07a7
+      internalID: -1393734160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_39
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 896
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086f532a56ed0804d99c7683f73eec90
+      internalID: -1822094093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7e96d8196826a428f43275da431f10
+      internalID: -4966106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 864
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81267bafd863dff4fab560e6ad715e22
+      internalID: -1034372260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 867
+        width: 92
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84d0099541dac64ca275f69469434ba
+      internalID: 1898660721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_43
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 867
+        width: 90
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b138c21f7c30d114b8ac38141feafabe
+      internalID: -1737515674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_44
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 864
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3832586b7811d438e1f99ff0f9c831
+      internalID: -883425829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_45
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 864
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bb5f3441b7d3a41b197c01b84712e0
+      internalID: -1868812002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_46
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 864
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03f206914ea3fe48bb0aeddcbd5ba42
+      internalID: -104202618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_47
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 864
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8d3d5a2e1eabb47a7cd30cc9c4dbc4
+      internalID: -1669394587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_48
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 864
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b491f5ecbbaad9d4ba0ef4d4560cae58
+      internalID: -823140762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_49
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 864
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431d2da66067dbf469dc35877221567a
+      internalID: -599021669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6029a98fce956684bb60e7709f7530aa
+      internalID: -812125964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_51
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 832
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2be1a1eeea5d66478bb169822c4f376
+      internalID: 187799534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 832
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93920f65ff4f874db54b8c535469f44
+      internalID: 1242429021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_53
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 832
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10334b70a1ed60e4daa0e094bf433083
+      internalID: 538520885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_54
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 832
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42863b028cc4d04d812746939fcf0e2
+      internalID: 406410566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_55
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 832
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3246b49486d89948af95378249aa5c3
+      internalID: 1511278697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_56
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 832
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfc5679488757645a9453ac59db07e1
+      internalID: 951159449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_57
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 832
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4ee63ee3f47464a9a4b78bc1415997
+      internalID: 300649738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_58
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 832
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6d46b0c85920040833bde0c1c518ab
+      internalID: 149881698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_59
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 832
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3341ac3a2d33f48b8145ed7484ba80
+      internalID: -622259433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757622763f6459d4092856b0cf8508b4
+      internalID: 138004084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 800
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f769d77eb9648640b21276086e77ec8
+      internalID: -1663557941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_62
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 800
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18326c105f8425439bf90c524732b65
+      internalID: 1616466572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_63
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 800
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae34ec0f0db7f7a4782b6bc11440e7c4
+      internalID: 62900584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_64
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 800
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9effdedb58171054b82c4f53155fb4d8
+      internalID: 215591822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 816
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2937a4afa3eaf364fb21916b5eb6b11a
+      internalID: 1423027078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_66
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 800
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce60f8a9ff9d654aa79275147d27f1c
+      internalID: 977721470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_67
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 801
+        width: 95
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5ff1626ab59014489498549f58e049
+      internalID: 1557581753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_68
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 800
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59b383adcda7d04cb1f0479e21e389a
+      internalID: 1111223347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_69
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 800
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb36d79ef7984a4288a057c6f7a1d2b
+      internalID: -411844857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd1aba4e35c2094ab8f479e87462144
+      internalID: 1905392074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_71
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 768
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a106daf48c6a846bdb718e93559553
+      internalID: 573501522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_72
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 768
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68480e09696f7b4b92905f774d9e1e4
+      internalID: 963565763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_73
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 768
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204cb0c16096d174eba4145f3bbda41b
+      internalID: 651419417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 784
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bdd05419885cb45a97231b246c2431
+      internalID: 2022499973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_75
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 768
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e227d13b0ff154abdd1549490519df
+      internalID: 1021725634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_76
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 768
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb2ad910c736f94e90ba3571aecb4c8
+      internalID: 2004666152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_77
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 785
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b3ee2282aa18746ada305ae1f1b7a5
+      internalID: -1345674767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_78
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 772
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801a51c66555ce045b21a5f3fa3d0a16
+      internalID: -1893266856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_79
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 768
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc7ea48028a6b548a00259c54f03e46
+      internalID: -1055576097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa349f4d245526e48aad88bad2394438
+      internalID: 1352269164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_81
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 736
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddbfb9b5c62e1d469e28000c9774c4f
+      internalID: -389656697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_82
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 736
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cf02cf5b6701f45bcfa6b7ca1bff83
+      internalID: 1184138668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_83
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 736
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527eb328659c29f43b326dbf9e8201e9
+      internalID: -1581858447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_84
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 736
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007cceb9d0dd40b4e835dedd5f404ee1
+      internalID: 304855822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_85
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 752
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117e87b765d4c5b47b932d858f5bf33f
+      internalID: 451442848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_86
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 736
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a652a27b3662e48a69712e9eab2a9d
+      internalID: -333503197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_87
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 736
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3700202f12827364cb684be034571b7d
+      internalID: -435984103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_88
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 736
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cabd7ebe3dc89a4dad0754439374b0f
+      internalID: -1870947594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_89
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 736
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16771b2a4a3e7294083d7dbbc23b3f29
+      internalID: 1630183197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431c253af28eb6a489f19844f2503439
+      internalID: -31782012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_91
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 704
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc8a91458c761c4f879bed2f8e9ba7e
+      internalID: -1819664330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_92
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 704
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a7d4dd36c4e4e44a66ec3bd5c08a3d
+      internalID: 673234313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_93
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 704
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6b41565f633b246905c2857841b6b3
+      internalID: -825226201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_94
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 704
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080aa772489fe1d43a4a0575350038e5
+      internalID: 173605752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62790f683ef52b24da0a5eca578f4da6
+      internalID: -838221119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_96
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 720
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbee091818fe1f4fa4aa9f3d3769919
+      internalID: -1260048931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_97
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 704
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e815226d2ac2488155e92959089e4
+      internalID: 985777200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_98
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 704
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0311a017bda47ad4999e4a62c6c33b9a
+      internalID: -776084142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_99
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 704
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fc1a9b38d2e24479cfdbc943679dc8
+      internalID: -176429908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d047ff0b86af6c47ae106b21a01f878
+      internalID: -63821810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_101
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 689
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2110b84f327aee41b8399c492ad5af7
+      internalID: 1595389636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_102
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 689
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0130f982958cef344acf1c2ea036c1e8
+      internalID: -811767785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_103
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 672
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56953ab415d15f34fa0fe31468faea23
+      internalID: 608078101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_104
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 672
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db55a466415c94343a80a15e9b902669
+      internalID: 561845435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_105
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f99521cc5ebb644487fff60903feb89
+      internalID: 2100596192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_106
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 672
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5479ca2f7aaa6d7429db33c829c4870f
+      internalID: -1814873506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_107
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 672
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c064cb270ffd05147acae981d90ff834
+      internalID: -1895571198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_108
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 672
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb531e32c9ecb9f46b3813e5a76766c6
+      internalID: 491777927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_109
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 672
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a94ce77a6caa84590f4fcfd0ca62a1
+      internalID: -425760330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab3f29faec2f17448e3ae28ff343dce
+      internalID: -1874866619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_111
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 660
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c751c4b3e0ec853438695de6931c61aa
+      internalID: 1322365628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_112
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 640
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3ce170d6c014845bc0aa31332a5a24
+      internalID: 337959777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_113
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 640
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18105101bfb2d048a58ff6231a3cfab
+      internalID: -1597117643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_114
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 640
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0016e8def4413ee4aa64fda0f6ad1d04
+      internalID: -316956934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_115
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63207e5f35e34834ea4bc00e2b5ce65d
+      internalID: -1609276471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_116
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 640
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dccdff5efb059644b02951fd1e57551
+      internalID: 1259551606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_117
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 640
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90172376bdf9553478913f905a7ee178
+      internalID: 1592047288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_118
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 640
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d32e762cfa6bb41b66cb892427620f
+      internalID: -1644391349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_119
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 640
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918bf4efe34acbf48884e19893f908e8
+      internalID: -2071498254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bad6bb80b53cc04a8ea075ea56af920
+      internalID: 1350228609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_121
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 608
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68584649e8232d47af7b90e576ff4d1
+      internalID: -578154191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_122
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 608
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6d6c3275bf68c4caef4e3c7a5023e9
+      internalID: 1207778810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_123
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 608
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820ee3cd06547f745a173607fec99136
+      internalID: 760475750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_124
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 600
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fad9ba3962f3e5459be6951cf35ef5b
+      internalID: -451349407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_125
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 627
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efed905a38272e241851b3c378e9d8b5
+      internalID: -1282945241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_126
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 608
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac5fc90ae51c6f4ebced9a4aa6a463d
+      internalID: -1793872053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_127
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 608
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af02a6285149a1f4ca5b2f13a4173538
+      internalID: -338628703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_128
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 608
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a18dc061f6d05946b2869b8304055d4
+      internalID: -179187290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_129
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 608
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a857ad4641f166478809ebff8e6dbbd
+      internalID: 1463473859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdce6a9762aae2249a6c4e1a49064f65
+      internalID: 463600200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_131
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 576
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe8f364fc561804682646a9fdbfe8e5
+      internalID: 1025543214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_132
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 576
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eceaeed2ab30e49a68c8295dccf2b6
+      internalID: -1680703977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_133
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 576
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f69cdfd9658bb5439b0e3574f50e8ab
+      internalID: 1761615778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_134
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92504ed46265424d8849e5c5dafa9f5
+      internalID: -386091660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_135
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 576
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e87caf8d24094fb4112c6feffb3a7
+      internalID: 28201738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_136
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 576
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37f06b7c72666e49b73604504bc13cc
+      internalID: -239286545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_137
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 576
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0691be42452e64fb373d77972b3225
+      internalID: 167320843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_138
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 576
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5936f30b6698543abef58970c56e5d
+      internalID: -829014604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_139
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 576
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d3875ced4376342b591a1b27d4a4ee
+      internalID: -1333882669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180e7239dff72b443828f25a7a7791fe
+      internalID: 1035778352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_141
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 544
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64919c2a53889ac4698835aa5df91876
+      internalID: 691488512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_142
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 544
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8397ac6ed7b7f264098a07ba0b03f3a9
+      internalID: -521917811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_143
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 544
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153275002865a8a4c9a1bd94cfa4c8d6
+      internalID: -1048242369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_144
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 544
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0569d2f6077a2d41b928304d85c4834
+      internalID: -768348547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_145
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 544
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e5408243520dc4fa8bc2c852efdd44
+      internalID: -1941892107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_146
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 545
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d016132d20cf54b9dd66f6bb8e4d6d
+      internalID: 267646859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_147
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 544
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a904d9637cd4fff42bf97bc6aaba4aa5
+      internalID: -1236294163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_148
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 544
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3976ddcf17ab8a541b6bbbb5b56923b3
+      internalID: 707117992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_149
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 544
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8341eac56a41f444ca5854c619b28880
+      internalID: -1749258541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c9fd35d6dc3db4ab416434973b4888
+      internalID: 1752595740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_151
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 512
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5522bc843cfad324bb0c807e71480b64
+      internalID: 559872650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_152
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 512
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ad0f5f9410b247a364c82ea1066e4
+      internalID: -1764452650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_153
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 512
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e49ae4e3634bc4dac42d45e7634cec
+      internalID: 682317257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_154
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 512
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6f4a5bbcf27f04a891b02eaa2f70b3
+      internalID: 132385655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_155
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 512
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1bff6baf276ac4bab06ed31240251c
+      internalID: -1823371949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_156
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 530
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01760ec826965744a14f5e457e17578
+      internalID: -1657411872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_157
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 512
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8438b48ad428164086ff5dac9fe4a1d
+      internalID: -63314736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_158
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 512
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051345fcd2029994394248d260ce0a44
+      internalID: -468859260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_159
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 512
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28dbde5d01df9f48b3b79faf3f80670
+      internalID: -1457627708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b784564af2bf3674a9ff8fdadef590ea
+      internalID: 1771793327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_161
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 480
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d9cf9088116cd44b28d0479d0c2e31
+      internalID: 1149950312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_162
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 480
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2382adda052c94cacddc90a7d889d3
+      internalID: 597741972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_163
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 480
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a94b21474152847840a1e466bbddde
+      internalID: 105119903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_164
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 480
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531a9b8524994984db0e811280987a56
+      internalID: 280945642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_165
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 480
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0d0a1e0c79c1e418c8614edbe142e6
+      internalID: -1283920108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_166
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 480
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771cc344095ec4545a581f13ebd9f800
+      internalID: 1543947404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_167
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 480
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d983b01d49b4b8540a9f8cdb9b6c3ec1
+      internalID: 2033818412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_168
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 480
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c269cd74cac6f438ad7b236380cfa5
+      internalID: 2025050576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_169
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 480
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b30c805ebd0d443aa28c6376e86252
+      internalID: 1213280344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fec51d5f50cb147989ca1970ca6b89
+      internalID: -1194408607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_171
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 448
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde9f76b4c5ad6d45bbd444698dafd2d
+      internalID: 929172523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_172
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 448
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692f97e6138e96c4aa8c27132d82e503
+      internalID: -1590320025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_173
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 448
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843f53219e899f14296711563ed4894b
+      internalID: -364645712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_174
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 448
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e37ef031acfd624f9ba98e5467c1dc7
+      internalID: -749174684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_175
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 448
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b6e0cb867eda4eb310f81b258bb80
+      internalID: 664557600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_176
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 448
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1ed443605d1db408ad624b0b57dc9e
+      internalID: 2035211414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_177
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 448
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68f5b7651dcb514aaf5a34563e8866b
+      internalID: -1697547873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_178
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 448
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b85c5dc9d258ae4b9d6ed95efec0d6a
+      internalID: 606643266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_179
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 448
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a2c320c7958cb4488d4cd7d473911e
+      internalID: -1073466066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c18e231ed6f2994d9bb92d1d558eb3b
+      internalID: 332383045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_181
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 416
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3290af1c638cc3440950c00fcf785822
+      internalID: -600628043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_182
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 416
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8392d42231cf743810d49834286f66
+      internalID: 1610528224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_183
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 416
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed61914c043cc8428416ca41bc098ab
+      internalID: -706827240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_184
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 416
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065991c0d41c65f48bcabdf3fa74b01b
+      internalID: -874457582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_185
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 416
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513a947eb6e141c41bd46fd79272a565
+      internalID: -115932530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_186
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 416
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c302fa39de06441814020055b84bd6
+      internalID: 1869255039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_187
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 416
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f3a1e5748f2704b873985c0d07ef6e
+      internalID: 413204913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_188
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 416
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeb34d302a845341b95097452b0eb9a
+      internalID: -1623252122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_189
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 416
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e25c197e34ab745be43f8eda0e6f3c
+      internalID: -1467542906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e65ef6931a4d74ca9af1976fed2426
+      internalID: 1698654186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_191
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 384
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cb221dbe3ca0349ace0a861c5d630c
+      internalID: -661583280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_192
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 384
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a15e99f05f7fa419422b0e4edb10a1
+      internalID: -125957925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_193
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 384
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b116e361a684d43b68c4dd10927c14
+      internalID: 789382237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_194
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 384
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c800d9525866c449e8a5051f37067c
+      internalID: 1575830430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_195
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 384
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67a819de495fe94998855da85a723df
+      internalID: 1874815929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_196
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 384
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5723d07b71c9b04aaecbcc732058981
+      internalID: 1930066542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_197
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 384
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a13462336e7eb43bdf421aa79a10c0
+      internalID: -1535799653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_198
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 384
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e5fb90e6142084cbbeb716b25afc33
+      internalID: -1708102180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_199
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 384
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f780a7f092c409641b7e25b94cb2e7b4
+      internalID: 319055363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb3e84328ee5d8488b521c888631313
+      internalID: 642730690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_201
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 352
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d132304ed4ffccb4b91d6e3ea7cf748e
+      internalID: 708533833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_202
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 352
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2c977b19373d640b377ef15b974b5f
+      internalID: 2072767670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_203
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 352
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13e008b1fed99a4f956b4dd4871efad
+      internalID: 271675690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_204
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 352
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42eebfbc3fef884f91991c62081bed9
+      internalID: 270275626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_205
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 352
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f220389b31c5c0419f2373ce90d79a6
+      internalID: 489242062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_206
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 352
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147df5318a4c7d84eb02343fb0901d2c
+      internalID: 343651864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_207
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 352
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c339393972f0354b94732af1250ff91
+      internalID: 657641688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_208
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 352
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2717e8c0891054dba8912bc0b18a77
+      internalID: -1300408103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_209
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 352
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeb307d0f5f9194c971d19fdd93d642
+      internalID: 1641170221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8dc48fce7d691468c2f0a512e7add0
+      internalID: 1107021430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_211
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 320
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ee9739a745ab34aa4d9bcda3e07917
+      internalID: 822257361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_212
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 320
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8710b0b414e116244ab171fdc5c23237
+      internalID: 1653363185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_213
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 320
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc252a5275617848b2671ba862f735f
+      internalID: -341551051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_214
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 320
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c45f4317fa0fb47bb654adf0ae384c
+      internalID: -1688011333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_215
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 320
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3305fe7dc52d9f6478ab41add6c561a9
+      internalID: 359361861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_216
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 320
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7b08ddd791a4b4d88d53f479e70f00
+      internalID: 56044605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_217
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 320
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797fb2c04af6afa4680d9d64a7572b12
+      internalID: -812307589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_218
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 320
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a0ba6bb5834fe4da7b0a7d4d0f412c
+      internalID: 41432212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_219
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 320
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae238ebd279fa04fb3e6c6acf18e450
+      internalID: 1217328302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b67e4c895c7ec942a4164d78b735ffd
+      internalID: 879302269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_221
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 288
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaadc6077b9c064fa6cdea8edcf8352
+      internalID: -426036238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_222
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 288
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551a466c3b7a7b344b97099c92acde1e
+      internalID: 1285078495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_223
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 288
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9613fd7662e17dc408d43e35134eb665
+      internalID: 860572378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_224
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 288
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7bf95dbad3ec8439abf22dff2bbc7d
+      internalID: 35778089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_225
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 288
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870ec1f61eb50634f9c1c25266f01438
+      internalID: -317007852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_226
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 288
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f582aeb1b8d479459c9be49cb9401aa
+      internalID: 1930490093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_227
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 288
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9799a942e2fcd89418511bc9444442bd
+      internalID: 33840370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_228
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 288
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60371868d932b6a48a8580abccb56928
+      internalID: -1081168033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_229
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 288
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40f1e4d2e2ba644f82eec5fc741c987
+      internalID: -1117024762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2111a8af4a690ca47821b2667cc7038c
+      internalID: -1325340678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_231
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 256
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7247d8c14298c6c4d827246af3a361d3
+      internalID: 624316537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_233
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 202
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8c0e07a0624574bac8a16afa1f6cdf
+      internalID: 1592919605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_234
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 256
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfdad4ef2123bb469c99633e5c373fb
+      internalID: 1659339705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_235
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 256
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c423199670122e46ac40c55f5ccace5
+      internalID: -1833534532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_236
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 256
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66533a3527b277643b7a2dc91796e1c4
+      internalID: 1525553250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_237
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 256
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98514142db415e74994fb739e3165546
+      internalID: -1363932093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_238
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 256
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50305169abc8354a94a8aa70ef2891c
+      internalID: 2063033780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_239
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 256
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1c073db313dcc459486d6ea3572ad0
+      internalID: -1941472743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09623a2896e600f49abfb8e5012a6ad3
+      internalID: 283669068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_241
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 224
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b6eb619034c1c43bea7aa29022d258
+      internalID: 731411803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_244
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 224
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ad42c2e7f83a243a1a1cafc77d119d
+      internalID: 743727690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_245
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 224
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a7169684df242478dab3e5de50fb41
+      internalID: -487951734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_246
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 224
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebf65715272a5545aa85bc3e9889c11
+      internalID: -312424224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_247
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 224
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91acead57a66e9447955264acfc5ce62
+      internalID: -1131019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_248
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 224
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d35b0bfc22b464488ec1752d44ecd98
+      internalID: -1818834287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_249
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 224
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adea450c5eb3b44aab6b60d7fd4e506
+      internalID: 880796166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9321f4ea6b4e29d4fada76dbaf06a608
+      internalID: -1922546878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_251
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 192
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7488b1261396b4c44926187b7b909634
+      internalID: -1481789047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_254
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 192
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae57a6dab446561449a92127fe57bc1a
+      internalID: -66651422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_255
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 192
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51803c4eaa036b4fb20829d21527d57
+      internalID: -1412027960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_256
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 192
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e71ad1febd68746a25fba3b2fb8bff
+      internalID: 441861755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_257
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 192
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6066129d71125bd4d9b82721a9ff221e
+      internalID: 281791778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_258
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 192
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d65eba1d55f7a44bb94b5952f77efa
+      internalID: 368696987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_259
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 192
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d3182c11cbabf428f8c657ca89753b
+      internalID: 1908971845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_260
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435fa021553f92e47960407e9ed7ed46
+      internalID: -1162765365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_261
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 160
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b44bbb2dddda884aacb943a5acf6d4b
+      internalID: -870529044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_262
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 160
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6603e2384b98d24896e92d642926312
+      internalID: 3093935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_263
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 158
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5903d122f915d8942b765fc7b2a6c058
+      internalID: 892755871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_264
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 160
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a669a8568359f4881298fde5b0fde5
+      internalID: 227634778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_265
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 160
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7bb7a3b2385fb43ae0a5d85593fdef
+      internalID: 127443636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_266
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 160
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fbdea1805d3234aa728c5657cdf99c
+      internalID: -611966910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_267
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 160
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0ee19201c84f947bb2f823f403a46f
+      internalID: -1698205623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_268
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 160
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c5520abebd30e4c9898647980b3c56
+      internalID: 700590253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_269
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 160
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77489cf927f05a45a7d94254ca19e2b
+      internalID: 2060407792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22205709078c220449ddd861a05a7f9e
+      internalID: 813365460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_271
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 128
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c33b3858d69f048b601d648c017dc8
+      internalID: -865801149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_272
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 128
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce157ca624c0334db5c5c7aefd40e54
+      internalID: 1655583171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_274
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 128
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a33872fc281ae4783b035bfecdf2d2
+      internalID: -1977807934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_275
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 128
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35c427eabe2485409352b965fa40f1a
+      internalID: 336043053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_276
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 128
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816bb0648265d8347afbed7f244de697
+      internalID: 2096685769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_277
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 128
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dbd94eac06a2a41b8e45f3ba3ced7f
+      internalID: 507017246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_278
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 128
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4c790d0b9bcff4584e97cf946c83ec
+      internalID: -783285321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_279
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bf847bd06652a4e8d988447b60e1d0
+      internalID: 708534781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_280
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 96
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6294a90f53d23d41848a7de8f6cdbdf
+      internalID: 672823313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_281
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 96
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3cebe2fcd655d409d89e9b7ec39a34
+      internalID: 2101275282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_282
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 96
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb9b8e0e30968148a9067c3aaf61aec
+      internalID: -1486021199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_283
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 96
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5137642305a43bc41a692182ee8dd5b7
+      internalID: 856248082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_284
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 96
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad65ae1a5c2e744493d2886f8f68673
+      internalID: 1445302920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_285
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e66534fb122554d9862403643acde1
+      internalID: -1810881982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_286
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 64
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b672198b5e21948ba770e1829ab8d0
+      internalID: 1317989553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_287
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 64
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a413f51a0619d478b4761cfbb024dd
+      internalID: -437655803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_288
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 64
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65d12946284b1a4ba76b9054d719b8d
+      internalID: -1913597007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_289
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 64
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637e09bd87b188446a66b1e5b544134b
+      internalID: 1928854227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_290
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 64
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ec6af1ab4309a4eb9e856ab4abcf1d
+      internalID: -1477154995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_291
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94f60303294b8f4baaa70190902e0c0
+      internalID: -1927872744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_292
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 32
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7070ffc740ff3084ab350af2af4da8d4
+      internalID: -1561399761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_293
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 32
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731fc4714559d0e4a836adc9ee2e5cf7
+      internalID: -661956693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_294
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 32
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8332ebf4ac855842909c650e0c57be9
+      internalID: 2073222550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_295
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 32
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df98747b051c9547897bc53f9fb39e9
+      internalID: -56623829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_296
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0737b5407cddf4fb1a75897c836ee2
+      internalID: -120973405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_297
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec739eace85ea1543940022a1ffd3891
+      internalID: -2046372866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_298
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb614a5b33db8d4f9a33d1d071f23b3
+      internalID: -1008912195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_299
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7673696054ed12a4a8385ad3ff8a8d85
+      internalID: 533452163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_300
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0536cb66f0b83409bc36914000dd2c
+      internalID: 1470286286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CozyUi_232
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 720
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb311de247a0a6943a2042bede1ffcf3
+      internalID: -565810230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CozyUi_0: -1179249171
+      CozyUi_1: 1001897176
+      CozyUi_10: -1572503461
+      CozyUi_100: -63821810
+      CozyUi_101: 1595389636
+      CozyUi_102: -811767785
+      CozyUi_103: 608078101
+      CozyUi_104: 561845435
+      CozyUi_105: 2100596192
+      CozyUi_106: -1814873506
+      CozyUi_107: -1895571198
+      CozyUi_108: 491777927
+      CozyUi_109: -425760330
+      CozyUi_11: -1161480104
+      CozyUi_110: -1874866619
+      CozyUi_111: 1322365628
+      CozyUi_112: 337959777
+      CozyUi_113: -1597117643
+      CozyUi_114: -316956934
+      CozyUi_115: -1609276471
+      CozyUi_116: 1259551606
+      CozyUi_117: 1592047288
+      CozyUi_118: -1644391349
+      CozyUi_119: -2071498254
+      CozyUi_12: 1276865518
+      CozyUi_120: 1350228609
+      CozyUi_121: -578154191
+      CozyUi_122: 1207778810
+      CozyUi_123: 760475750
+      CozyUi_124: -451349407
+      CozyUi_125: -1282945241
+      CozyUi_126: -1793872053
+      CozyUi_127: -338628703
+      CozyUi_128: -179187290
+      CozyUi_129: 1463473859
+      CozyUi_13: 614803632
+      CozyUi_130: 463600200
+      CozyUi_131: 1025543214
+      CozyUi_132: -1680703977
+      CozyUi_133: 1761615778
+      CozyUi_134: -386091660
+      CozyUi_135: 28201738
+      CozyUi_136: -239286545
+      CozyUi_137: 167320843
+      CozyUi_138: -829014604
+      CozyUi_139: -1333882669
+      CozyUi_14: 1096847822
+      CozyUi_140: 1035778352
+      CozyUi_141: 691488512
+      CozyUi_142: -521917811
+      CozyUi_143: -1048242369
+      CozyUi_144: -768348547
+      CozyUi_145: -1941892107
+      CozyUi_146: 267646859
+      CozyUi_147: -1236294163
+      CozyUi_148: 707117992
+      CozyUi_149: -1749258541
+      CozyUi_15: 1693340019
+      CozyUi_150: 1752595740
+      CozyUi_151: 559872650
+      CozyUi_152: -1764452650
+      CozyUi_153: 682317257
+      CozyUi_154: 132385655
+      CozyUi_155: -1823371949
+      CozyUi_156: -1657411872
+      CozyUi_157: -63314736
+      CozyUi_158: -468859260
+      CozyUi_159: -1457627708
+      CozyUi_16: -1080124789
+      CozyUi_160: 1771793327
+      CozyUi_161: 1149950312
+      CozyUi_162: 597741972
+      CozyUi_163: 105119903
+      CozyUi_164: 280945642
+      CozyUi_165: -1283920108
+      CozyUi_166: 1543947404
+      CozyUi_167: 2033818412
+      CozyUi_168: 2025050576
+      CozyUi_169: 1213280344
+      CozyUi_17: 1460391379
+      CozyUi_170: -1194408607
+      CozyUi_171: 929172523
+      CozyUi_172: -1590320025
+      CozyUi_173: -364645712
+      CozyUi_174: -749174684
+      CozyUi_175: 664557600
+      CozyUi_176: 2035211414
+      CozyUi_177: -1697547873
+      CozyUi_178: 606643266
+      CozyUi_179: -1073466066
+      CozyUi_18: -127584537
+      CozyUi_180: 332383045
+      CozyUi_181: -600628043
+      CozyUi_182: 1610528224
+      CozyUi_183: -706827240
+      CozyUi_184: -874457582
+      CozyUi_185: -115932530
+      CozyUi_186: 1869255039
+      CozyUi_187: 413204913
+      CozyUi_188: -1623252122
+      CozyUi_189: -1467542906
+      CozyUi_19: -685348811
+      CozyUi_190: 1698654186
+      CozyUi_191: -661583280
+      CozyUi_192: -125957925
+      CozyUi_193: 789382237
+      CozyUi_194: 1575830430
+      CozyUi_195: 1874815929
+      CozyUi_196: 1930066542
+      CozyUi_197: -1535799653
+      CozyUi_198: -1708102180
+      CozyUi_199: 319055363
+      CozyUi_2: -857343108
+      CozyUi_20: -31256742
+      CozyUi_200: 642730690
+      CozyUi_201: 708533833
+      CozyUi_202: 2072767670
+      CozyUi_203: 271675690
+      CozyUi_204: 270275626
+      CozyUi_205: 489242062
+      CozyUi_206: 343651864
+      CozyUi_207: 657641688
+      CozyUi_208: -1300408103
+      CozyUi_209: 1641170221
+      CozyUi_21: -224034342
+      CozyUi_210: 1107021430
+      CozyUi_211: 822257361
+      CozyUi_212: 1653363185
+      CozyUi_213: -341551051
+      CozyUi_214: -1688011333
+      CozyUi_215: 359361861
+      CozyUi_216: 56044605
+      CozyUi_217: -812307589
+      CozyUi_218: 41432212
+      CozyUi_219: 1217328302
+      CozyUi_22: -432311745
+      CozyUi_220: 879302269
+      CozyUi_221: -426036238
+      CozyUi_222: 1285078495
+      CozyUi_223: 860572378
+      CozyUi_224: 35778089
+      CozyUi_225: -317007852
+      CozyUi_226: 1930490093
+      CozyUi_227: 33840370
+      CozyUi_228: -1081168033
+      CozyUi_229: -1117024762
+      CozyUi_23: 52460879
+      CozyUi_230: -1325340678
+      CozyUi_231: 624316537
+      CozyUi_232: -565810230
+      CozyUi_233: 1592919605
+      CozyUi_234: 1659339705
+      CozyUi_235: -1833534532
+      CozyUi_236: 1525553250
+      CozyUi_237: -1363932093
+      CozyUi_238: 2063033780
+      CozyUi_239: -1941472743
+      CozyUi_24: -1434802219
+      CozyUi_240: 283669068
+      CozyUi_241: 731411803
+      CozyUi_242: -486178311
+      CozyUi_243: 475895171
+      CozyUi_244: 743727690
+      CozyUi_245: -487951734
+      CozyUi_246: -312424224
+      CozyUi_247: -1131019
+      CozyUi_248: -1818834287
+      CozyUi_249: 880796166
+      CozyUi_25: 1042542101
+      CozyUi_250: -1922546878
+      CozyUi_251: -1481789047
+      CozyUi_252: 1579853995
+      CozyUi_253: 1993665084
+      CozyUi_254: -66651422
+      CozyUi_255: -1412027960
+      CozyUi_256: 441861755
+      CozyUi_257: 281791778
+      CozyUi_258: 368696987
+      CozyUi_259: 1908971845
+      CozyUi_26: 1717437395
+      CozyUi_260: -1162765365
+      CozyUi_261: -870529044
+      CozyUi_262: 3093935
+      CozyUi_263: 892755871
+      CozyUi_264: 227634778
+      CozyUi_265: 127443636
+      CozyUi_266: -611966910
+      CozyUi_267: -1698205623
+      CozyUi_268: 700590253
+      CozyUi_269: 2060407792
+      CozyUi_27: 562419160
+      CozyUi_270: 813365460
+      CozyUi_271: -865801149
+      CozyUi_272: 1655583171
+      CozyUi_273: -145911049
+      CozyUi_274: -1977807934
+      CozyUi_275: 336043053
+      CozyUi_276: 2096685769
+      CozyUi_277: 507017246
+      CozyUi_278: -783285321
+      CozyUi_279: 708534781
+      CozyUi_28: 1253391058
+      CozyUi_280: 672823313
+      CozyUi_281: 2101275282
+      CozyUi_282: -1486021199
+      CozyUi_283: 856248082
+      CozyUi_284: 1445302920
+      CozyUi_285: -1810881982
+      CozyUi_286: 1317989553
+      CozyUi_287: -437655803
+      CozyUi_288: -1913597007
+      CozyUi_289: 1928854227
+      CozyUi_29: -1321845158
+      CozyUi_290: -1477154995
+      CozyUi_291: -1927872744
+      CozyUi_292: -1561399761
+      CozyUi_293: -661956693
+      CozyUi_294: 2073222550
+      CozyUi_295: -56623829
+      CozyUi_296: -120973405
+      CozyUi_297: -2046372866
+      CozyUi_298: -1008912195
+      CozyUi_299: 533452163
+      CozyUi_3: -1989431742
+      CozyUi_30: -1601413818
+      CozyUi_300: 1470286286
+      CozyUi_31: -1120416315
+      CozyUi_32: -1981715217
+      CozyUi_33: -1462309896
+      CozyUi_34: -82160423
+      CozyUi_35: -1676993267
+      CozyUi_36: 1451980395
+      CozyUi_37: 353571204
+      CozyUi_38: -1393734160
+      CozyUi_39: -1822094093
+      CozyUi_4: -1601381015
+      CozyUi_40: -4966106
+      CozyUi_41: -1034372260
+      CozyUi_42: 1898660721
+      CozyUi_43: -1737515674
+      CozyUi_44: -883425829
+      CozyUi_45: -1868812002
+      CozyUi_46: -104202618
+      CozyUi_47: -1669394587
+      CozyUi_48: -823140762
+      CozyUi_49: -599021669
+      CozyUi_5: 1399432090
+      CozyUi_50: -812125964
+      CozyUi_51: 187799534
+      CozyUi_52: 1242429021
+      CozyUi_53: 538520885
+      CozyUi_54: 406410566
+      CozyUi_55: 1511278697
+      CozyUi_56: 951159449
+      CozyUi_57: 300649738
+      CozyUi_58: 149881698
+      CozyUi_59: -622259433
+      CozyUi_6: 663593350
+      CozyUi_60: 138004084
+      CozyUi_61: -1663557941
+      CozyUi_62: 1616466572
+      CozyUi_63: 62900584
+      CozyUi_64: 215591822
+      CozyUi_65: 1423027078
+      CozyUi_66: 977721470
+      CozyUi_67: 1557581753
+      CozyUi_68: 1111223347
+      CozyUi_69: -411844857
+      CozyUi_7: 1341107725
+      CozyUi_70: 1905392074
+      CozyUi_71: 573501522
+      CozyUi_72: 963565763
+      CozyUi_73: 651419417
+      CozyUi_74: 2022499973
+      CozyUi_75: 1021725634
+      CozyUi_76: 2004666152
+      CozyUi_77: -1345674767
+      CozyUi_78: -1893266856
+      CozyUi_79: -1055576097
+      CozyUi_8: 128186467
+      CozyUi_80: 1352269164
+      CozyUi_81: -389656697
+      CozyUi_82: 1184138668
+      CozyUi_83: -1581858447
+      CozyUi_84: 304855822
+      CozyUi_85: 451442848
+      CozyUi_86: -333503197
+      CozyUi_87: -435984103
+      CozyUi_88: -1870947594
+      CozyUi_89: 1630183197
+      CozyUi_9: 1457283725
+      CozyUi_90: -31782012
+      CozyUi_91: -1819664330
+      CozyUi_92: 673234313
+      CozyUi_93: -825226201
+      CozyUi_94: 173605752
+      CozyUi_95: -838221119
+      CozyUi_96: -1260048931
+      CozyUi_97: 985777200
+      CozyUi_98: -776084142
+      CozyUi_99: -176429908
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
